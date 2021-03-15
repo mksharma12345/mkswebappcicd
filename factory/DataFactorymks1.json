@@ -1,0 +1,12 @@
+{
+	"name": "DataFactorymks1",
+	"properties": {
+		"globalParameters": {
+			"Azure Subscription Name": {
+				"type": "string",
+				"value": "Azure Pass - Sponsorship"
+			}
+		}
+	},
+	"location": "eastus2"
+}
