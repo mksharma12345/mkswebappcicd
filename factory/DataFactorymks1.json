@@ -13,6 +13,10 @@
 			"Azure SQL Server Use Id": {
 				"type": "string",
 				"value": "mksharma123"
+			},
+			"Azure SQL Server Password": {
+				"type": "string",
+				"value": "Parth@12345"
 			}
 		}
 	},
