@@ -1,0 +1,16 @@
+{
+	"name": "DSet_TableList_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Lnk_SQL_mks1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "VW_TableList"
+		}
+	}
+}
