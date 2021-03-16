@@ -1,0 +1,18 @@
+{
+	"Azure Subscription Name": {
+		"type": "string",
+		"value": "Azure Pass - Sponsorship"
+	},
+	"Azure Subscription Id": {
+		"type": "string",
+		"value": "6dd0baa2-c562-4114-a2fd-037c0ed6e614"
+	},
+	"Azure SQL Server Use Id": {
+		"type": "string",
+		"value": "mksharma123"
+	},
+	"Azure SQL Server Password": {
+		"type": "string",
+		"value": "Parth@12345"
+	}
+}
