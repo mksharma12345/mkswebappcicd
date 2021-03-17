@@ -11,6 +11,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorage1'"
 		},
+		"Databricks_mks1_accessToken": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accessToken' of 'Databricks_mks1'"
+		},
 		"Lnk_SQL_mks1_connectionString": {
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'Lnk_SQL_mks1'"
@@ -44,6 +48,9 @@
 					},
 					"AzureBlobStorage1_connectionString": {
 						"value": "[parameters('AzureBlobStorage1_connectionString')]"
+					},
+					"Databricks_mks1_accessToken": {
+						"value": "[parameters('Databricks_mks1_accessToken')]"
 					},
 					"Lnk_SQL_mks1_connectionString": {
 						"value": "[parameters('Lnk_SQL_mks1_connectionString')]"
